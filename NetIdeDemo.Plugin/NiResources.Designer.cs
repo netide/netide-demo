@@ -77,7 +77,7 @@ namespace NetIdeDemo.Plugin {
         ///    Changes to this file may cause incorrect behavior and will be lost if
         ///    the code is regenerated.
         ///--&gt;
-        ///&lt;resources xmlns=&quot;https://github.com/pvginkel/NetIde/schemas/Resources&quot;&gt;
+        ///&lt;resources xmlns=&quot;http://netide.github.io/netide-schemas/Resources.xsd&quot;&gt;
         ///  &lt;ui&gt;
         ///    &lt;menuRef id=&quot;Nid_Toolbar_About&quot; guid=&quot;{64F1B542-127E-4E94-8D5C-32ECF2A1E8A6}&quot;&gt;
         ///      &lt;group priority=&quot;100&quot;&gt;

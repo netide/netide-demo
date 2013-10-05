@@ -4,7 +4,7 @@
     Changes to this file may cause incorrect behavior and will be lost if
     the code is regenerated.
 -->
-<resources xmlns="https://github.com/pvginkel/NetIde/schemas/Resources">
+<resources xmlns="http://netide.github.io/netide-schemas/Resources.xsd">
   <ui>
     <menuRef id="Nid_Toolbar_About" guid="{64F1B542-127E-4E94-8D5C-32ECF2A1E8A6}">
       <group priority="100">
